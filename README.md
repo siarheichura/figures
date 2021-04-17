@@ -1,1 +1,1 @@
-# figures
+https://siarheichura.github.io/figures/
